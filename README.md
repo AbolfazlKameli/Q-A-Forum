@@ -65,6 +65,8 @@ python manage.py runserver
 ```
 
 ## Options
+You can test the project.
+
 ```shell
 python manage.py test
 ```
