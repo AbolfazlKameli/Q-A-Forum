@@ -63,3 +63,8 @@ start the django server
 ```shell
 python manage.py runserver
 ```
+
+## Options
+```shell
+python manage.py test
+```
